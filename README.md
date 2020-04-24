@@ -1,2 +1,2 @@
 # Network
-Paket alışverişi sağlayan kütüphanesidir.
+Bir server yardımıyla client'lerin veri göndermesini sağlıyor.
